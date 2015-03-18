@@ -8,10 +8,10 @@
 <body>
     <div class="tv-barre">
         <div class="tv-date">
-            Mercredi 18 février 2015
+
         </div>
         <div class="tv-heure">
-            11:30
+           
         </div>
     </div>
     <div class="tv-player">
