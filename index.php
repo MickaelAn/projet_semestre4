@@ -8,10 +8,8 @@
 <body>
     <div class="tv-barre">
         <div class="tv-date">
-
         </div>
         <div class="tv-heure">
-           
         </div>
     </div>
     <div class="tv-player">
