@@ -8,6 +8,7 @@
 <body>
     <div class="tv-barre">
         <div class="tv-date">
+            jeudi 19 mars
         </div>
         <div class="tv-heure">
         </div>
